@@ -12,6 +12,8 @@ elif cat_age >= 96:
     print(f"The price of the senior cat is $85")
 
 # approach 2, not so great results 
+# explanation: Since it's starting from the highest age you won't get the most accurate results because the younger ages can apply to the older if/elif statements 
+
 
 if :cat_age >= 96:
     print(f"The price of the senior cat is $85")
